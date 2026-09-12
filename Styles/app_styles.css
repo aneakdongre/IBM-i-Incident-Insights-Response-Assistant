@@ -1,0 +1,43 @@
+/* Generate AI Insights */
+.stButton > button[kind="primary"] {
+    background-color: #7C3AED;
+    color: white;
+    border: none;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+.stButton > button[kind="primary"]:hover {
+    background-color: #6D28D9;
+    color: white;
+}
+
+
+/* Clear Insights */
+.stButton > button[kind="secondary"] {
+    background-color: #F59E0B;
+    color: white;
+    border: none;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+.stButton > button[kind="secondary"]:hover {
+    background-color: #D97706;
+    color: white;
+}
+
+
+/* Download AI Insights */
+.stDownloadButton > button {
+    background-color: #16A34A;
+    color: white;
+    border: none;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+.stDownloadButton > button:hover {
+    background-color: #15803D;
+    color: white;
+}

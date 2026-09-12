@@ -1,0 +1,7 @@
+Streamlit
+Pandas
+Altair
+OpenPyXL
+Google Gen AI SDK
+Google API Python Client
+Google Auth libraries

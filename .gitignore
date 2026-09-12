@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Real Gmail OAuth credentials
+credentials/credentials.json
+
+# Gmail OAuth token
+credentials/token.json
+
+# Virtual environments
+venv/
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
